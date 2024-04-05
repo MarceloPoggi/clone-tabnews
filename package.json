@@ -1,0 +1,17 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Fontes para https://tabnews.com.br do https://curso.dev - que o Senhor nos proteja!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "author": "Pogginvm",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.1.4",
+    "react": "^18.2.0",
+    "text": "^0.1.0"
+  }
+}
